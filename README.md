@@ -1,17 +1,16 @@
 # Sequoia-X: 王者回归 | The King Returns
 #cs2选品
 #QQ:2168169488
-> A 股量化选股系统 V2 | A-Share Quantitative Stock Selection System V2
 
 ---
 
 ## 简介 | Introduction
 
-Sequoia-X V2 是面向 A 股市场的量化选股系统，基于现代 Python 工程化标准从零重构。
-系统以 OOP 架构、向量化计算和增量数据更新为核心设计原则，每日收盘后自动选股并推送至飞书群。
+Sequoia-X V2 是基于 A 股市场的量化选股系统实现对cs2饰品选择的脚本，基于现代 Python 工程化标准从零重构。
+系统以 OOP 架构、向量化计算和增量数据更新为核心设计原则，每日可以固定时间自动选股并推送至飞书群。
 
-数据层使用 [baostock](http://baostock.com)（免费、无需注册、无限流）拉取历史及增量日 K 数据（后复权），
-存储于本地 SQLite，彻底规避东方财富反爬问题。
+数据层使用 ((https://csqaq.com/))（免费）拉取历史及增量日 K 数据（后复权），
+存储于本地 SQLite
 
 ---
 
