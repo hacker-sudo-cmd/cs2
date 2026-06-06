@@ -1,5 +1,6 @@
+#基于A股量化选股系统的cs2选品脚本
 # Sequoia-X: 王者回归 | The King Returns
-
+#QQ：2168169488
 > A 股量化选股系统 V2 | A-Share Quantitative Stock Selection System V2
 
 ---
