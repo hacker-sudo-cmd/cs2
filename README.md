@@ -1,5 +1,6 @@
 # Sequoia-X: 王者回归 | The King Returns
-
+#cs2选品
+#QQ:2168169488
 > A 股量化选股系统 V2 | A-Share Quantitative Stock Selection System V2
 
 ---
