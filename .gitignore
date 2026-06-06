@@ -1,0 +1,40 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+*.whl
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data
+*.db
+*.sqlite
+data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+.hypothesis/
+pytest-cache-files-*/
